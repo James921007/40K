@@ -1,0 +1,8 @@
+{
+  "name": "40K 戰鬥巡邏隊：骰子計算器",
+  "description": "專為泰倫蟲族與太空死靈設計的戰鎚40K骰子計算系統，支持單位對陣、關鍵字觸發與動態修正器。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
